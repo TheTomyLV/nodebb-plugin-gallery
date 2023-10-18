@@ -1,0 +1,10 @@
+{
+    "name": "nodebb-plugin-gallery",
+    "version": "1.0.0",
+    "description": "Shows images as a gallery.",
+    "main": "library.js",
+    "author": "Toms",
+    "nbbpm": {
+      "compatibility": "^3.2.0"
+    }
+  }
